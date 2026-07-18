@@ -9,6 +9,7 @@
 | [1672-richest-customer-wealth](https://github.com/Hidayath386/LeetCode-Problems/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Hidayath386/LeetCode-Problems/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Hidayath386/LeetCode-Problems/tree/main/1929-concatenation-of-array/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Hidayath386/LeetCode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -26,4 +27,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0283-move-zeroes](https://github.com/Hidayath386/LeetCode-Problems/tree/main/0283-move-zeroes/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Hidayath386/LeetCode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Hidayath386/LeetCode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 <!---LeetCode Topics End-->

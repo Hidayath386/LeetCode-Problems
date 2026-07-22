@@ -5,10 +5,10 @@ class Solution {
         for(int i=0;i<nums.length;i++)
         {
             int digit=0;
-            int temp=nums[i];
-            while(temp>0)
+            //int temp=nums[i];
+            while(nums[i]>0)
             {
-                temp=temp/10;
+                nums[i]=nums[i]/10;
                 digit++;
             }
                 if(digit%2==0)

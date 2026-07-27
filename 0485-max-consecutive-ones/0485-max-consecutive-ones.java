@@ -20,7 +20,7 @@ class Solution {
         
              
         }
-        if(count>max)  max = count;
+       if(count>max)  max = count;
         return max;
         
     }

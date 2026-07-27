@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Hidayath386/LeetCode-Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/Hidayath386/LeetCode-Problems/tree/main/0027-remove-element/) | Easy |
 | [0066-plus-one](https://github.com/Hidayath386/LeetCode-Problems/tree/main/0066-plus-one/) | Easy |
 | [0283-move-zeroes](https://github.com/Hidayath386/LeetCode-Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Hidayath386/LeetCode-Problems/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -32,6 +33,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Hidayath386/LeetCode-Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/Hidayath386/LeetCode-Problems/tree/main/0027-remove-element/) | Easy |
 | [0283-move-zeroes](https://github.com/Hidayath386/LeetCode-Problems/tree/main/0283-move-zeroes/) | Easy |
 ## Math
 | Problem Name | Difficulty |

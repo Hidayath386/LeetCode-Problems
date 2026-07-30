@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Hidayath386/LeetCode-Problems/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Hidayath386/LeetCode-Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Hidayath386/LeetCode-Problems/tree/main/0027-remove-element/) | Easy |
 | [0066-plus-one](https://github.com/Hidayath386/LeetCode-Problems/tree/main/0066-plus-one/) | Easy |
@@ -45,4 +46,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Hidayath386/LeetCode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/Hidayath386/LeetCode-Problems/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->

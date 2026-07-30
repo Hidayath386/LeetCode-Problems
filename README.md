@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Hidayath386/LeetCode-Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Hidayath386/LeetCode-Problems/tree/main/0027-remove-element/) | Easy |
 | [0066-plus-one](https://github.com/Hidayath386/LeetCode-Problems/tree/main/0066-plus-one/) | Easy |
+| [0088-merge-sorted-array](https://github.com/Hidayath386/LeetCode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/Hidayath386/LeetCode-Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Hidayath386/LeetCode-Problems/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Hidayath386/LeetCode-Problems/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -35,6 +36,7 @@
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Hidayath386/LeetCode-Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Hidayath386/LeetCode-Problems/tree/main/0027-remove-element/) | Easy |
+| [0088-merge-sorted-array](https://github.com/Hidayath386/LeetCode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/Hidayath386/LeetCode-Problems/tree/main/0283-move-zeroes/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -50,4 +52,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Hidayath386/LeetCode-Problems/tree/main/0001-two-sum/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/Hidayath386/LeetCode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
